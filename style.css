@@ -1,0 +1,26 @@
+body {
+    margin: 1% 10% 5%;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+main {}
+
+.image {
+    margin: 20px;
+}
+
+.image img {
+    border-radius: 20px;
+    max-width: 30%;
+    margin-top: 25px;
+    margin-bottom: 0px;
+
+}
+
+.text {}
+
+ul {
+    display: inline-block;
+    margin: 0;   
+}
